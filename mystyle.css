@@ -16,7 +16,7 @@ details{
     list-style: none;
 }
 summary{
-    position: relative;
+    position: relative; 
     left: 10px;
 }
 li{
