@@ -23,3 +23,8 @@ li{
     background-color: rgb(210, 210, 210);
     border: 1px solid rgb(200, 200, 200);
 }
+h3{
+    position: relative;
+    left: 10px;
+    font-size: 25px;
+}
